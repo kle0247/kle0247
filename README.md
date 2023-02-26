@@ -11,7 +11,7 @@ My name is Karolyn and I'm a junior software engineer looking to join a team whe
 * Tooling: Git, Node.js, Webpack, Babel, Heroku, Figma
 * Methodologies: Agile Development, Test Driven Development
 
-#### 📚 Currently, I'm learning:
+<!-- #### 📚 Currently, I'm learning:
 * Typescript
 * GraphQL
 
